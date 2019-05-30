@@ -1,6 +1,6 @@
 cask 'adobe-cs6-master-collection' do
     version 'CS6'
-    sha256 '98d55be1c0a641db6d3a0b5eb902c7f3f6da3742b47d8587e241e6fdae8246b4'
+    sha256 'cf98947c2f6bad65ec863f76e77de70cc241328dd55efd08115f97e3027c48ec'
   
     # This Cask only works for Adobe dmgs containing the deploy folder,
     # i.e. the Adobe Collections, not the single Product Installers!
